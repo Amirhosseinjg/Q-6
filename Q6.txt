@@ -1,0 +1,13 @@
+using System;
+namespace firstprogram {
+    class program {
+        void main (string [] args) {
+            string x = console.readline();
+            string y = console.readline();
+
+            int sum = convert. to int 32 (x) + convert. to int 32 (y);
+            console.writeline(sum);
+        }
+
+    }
+}
